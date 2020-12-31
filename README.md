@@ -3,6 +3,6 @@
 ## I'm a Student and Game Developer!!
 
 - 🌱 I’m currently learning
-- 👯 I’m ove working together whth friends
+- 👯 I’m love working together whth friends
 - 🥅 Goals:To become a geat programmer 
 - ⚡ Fun fact: I love to play games and enjoy music and spend time whth my frends
