@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning
 - 👯 I’m love working together whith my friends
 - 🥅 Goals:To become a geat programmer 
-- ⚡ Fun fact: I love to play games and enjoy music and spend time whth my frends
+- ⚡ Fun fact: I love to play games and enjoy music and spend time whith my frends
