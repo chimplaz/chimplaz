@@ -1,9 +1,8 @@
-### Hi there, I'm Chimbook - aka [ANDEOMAX] 👋
+### Hi there, its [ANDEOMAX] 👋
 
-## I'm a Student and Game Developer!!
-
-- 🌱 I’m currently learning
+## just working 
+- 🌱 I’m currently working on cuda
 - 👯 I love working together with my friends
-- 🥅 Goals:To become a geat programmer 
-- ⚡ Fun fact: I love to play games and enjoy music and spend time whith my firends
+- 🥅 Goals: to be sussessful in life
+- ⚡I love to play games and enjoy music and spend time whith my firends
 -  currently playing something 
